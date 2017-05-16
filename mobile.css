@@ -1,0 +1,78 @@
+/* background */
+/* ---------- */
+
+.cBox--inlineitem>hr,.cBox>hr+.cBox-body--topResultitem,.cBox>hr.eyeCatcher+.cBox-body--topInCategory {
+  display: none !important;
+}
+
+div#adBlock {
+  display: none !important;
+}
+
+div.cBox-body--similarSellerAds.u-pad-left-18.u-pad-bottom-18 {
+  display: none !important;
+}
+
+.cBox-body--similarSellerAds {
+  display: none !important;
+}
+
+.cBox-body--topInCategory {
+  display: none !important;
+}
+
+.carousel {
+  display: none !important;
+}
+
+.topresult {
+  display: none !important;
+}
+
+div.cBox-body--eyeCatcher {
+  display: none !important;
+}
+
+div.ad.f.l.a_ {
+  display: none !important;
+}
+
+div#root_template_div {
+  display: none !important;
+}
+
+div#google_image_div {
+  display: none !important;
+}
+
+div#maine75481ccdd {
+  display: none !important;
+}
+
+div.ad_container {
+  display: none !important;
+}
+
+div#D_10_RECTM_PREM {
+  display: none !important;
+}
+
+div#D_07_TBANNER {
+  display: none !important;
+}
+
+div#S_05_ADSENSE_CSA_VIP_RIGHT {
+  display: none !important;
+}
+
+div#wide_ad_unit_02_middle {
+  display: none !important;
+}
+
+div#D_79_BILLBOARD{
+  display: none !important;
+}
+
+div#S_05_ADSENSE_ADX_VIP_PICTURE_GALLERY_LIGHTBOX {
+  display: none !important;
+}
