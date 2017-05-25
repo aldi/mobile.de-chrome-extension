@@ -5,14 +5,14 @@
 - faster loading speeds and surfing
 
 <h2> Main Page before </h2>
-![screenshot1](main_before.png)
+<img src="main_before.png"/>
 <h2> Main Page after </h2>
-![screenshot2](main_after.png)
+<img src="main_after.png"/>
 
 <h2> Product Page before </h2>
-![screenshot1](productpage_before.png)
+<img src="productpage_before.png"/>
 <h2> Product Page after </h2>
-![screenshot2](productpage_after.png)
+<img src="productpage_after.png"/>
 
 </br>
 <h1> Installation - 2 Ways </h1>
@@ -28,7 +28,7 @@ __Note:__ If you delete the folder with the extension on your computer it will a
 <h2>For Users:</h2>
 Download the extension from the Chrome Web Store.</br></br>
 <a href="https://chrome.google.com/webstore/detail/mobilede-nosponsored/ppogdenllamdmgofgekhdfdkloleiijd" target="_blank">
-<img src="webstore.png" alt="Drawing" style="width: 150px;"/>
+<img src="webstore.png" alt="Drawing" style="max-width: 20%;"/>
 </a>
 
 <h2> License </h2>
