@@ -1,4 +1,4 @@
-<h1>Mobile.de NoSponsored Chrome Extension `1.0`</h1>
+<h1>Mobile.de NoSponsored Chrome Extension <strong>1.0</strong></h1>
 
 - hides top and promoted listings
 - hides most of the ads if not all
@@ -28,7 +28,7 @@ __Note:__ If you delete the folder with the extension on your computer it will a
 <h2>For Users:</h2>
 Download the extension from the Chrome Web Store.</br></br>
 <a href="https://chrome.google.com/webstore/detail/mobilede-nosponsored/ppogdenllamdmgofgekhdfdkloleiijd" target="_blank">
-<img src="webstore.png" alt="Drawing" style="max-width: 20%;"/>
+<img src="webstore.png"/>
 </a>
 
 <h2> License </h2>
