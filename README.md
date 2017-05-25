@@ -1,23 +1,23 @@
-#Mobile.de NoSponsored Chrome Extension `1.0`
+<h1>Mobile.de NoSponsored Chrome Extension `1.0`</h1>
 
 - hides top and promoted listings
 - hides most of the ads if not all
 - faster loading speeds and surfing
 
-## Main Page before
+<h2> Main Page before </h2>
 ![screenshot1](main_before.png)
-## Main Page after
+<h2> Main Page after </h2>
 ![screenshot2](main_after.png)
 
-## Product Page before
+<h2> Product Page before </h2>
 ![screenshot1](productpage_before.png)
-## Product Page after
+<h2> Product Page after </h2>
 ![screenshot2](productpage_after.png)
 
 </br>
-# Installation - 2 Ways
+<h1> Installation - 2 Ways </h1>
 
-##For Developers:
+<h2>For Developers: </h2>
 
 1. **[Click here to download](https://github.com/aldiduzha/mobile.de-chrome-extension/archive/master.zip)**, unzip the file and save the folder on your computer.
 2. Drag and drop it in Chrome’s `Settings > Extensions`.
@@ -25,12 +25,12 @@
 
 __Note:__ If you delete the folder with the extension on your computer it will also be removed from Chrome too.
 
-##For Users:
+<h2>For Users:</h2>
 Download the extension from the Chrome Web Store.</br></br>
 <a href="https://chrome.google.com/webstore/detail/mobilede-nosponsored/ppogdenllamdmgofgekhdfdkloleiijd" target="_blank">
 <img src="webstore.png" alt="Drawing" style="width: 150px;"/>
 </a>
 
-## License
+<h2> License </h2>
 
 Licensed under [MIT](LICENSE) by [aldiduzha](http://aldiduzha.com).
