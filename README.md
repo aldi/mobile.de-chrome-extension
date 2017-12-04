@@ -19,7 +19,7 @@
 
 <h2>For Developers: </h2>
 
-1. **[Click here to download](https://github.com/aldiduzha/mobile.de-chrome-extension/archive/master.zip)**, unzip the file and save the folder on your computer.
+1. **[Click here to download](https://github.com/aldi/mobile.de-chrome-extension/archive/master.zip)**, unzip the file and save the folder on your computer.
 2. Drag and drop it in Chrome’s `Settings > Extensions`.
 3. Enjoy!
 
