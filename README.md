@@ -33,4 +33,4 @@ Download the extension from the Chrome Web Store.</br></br>
 
 <h2> License </h2>
 
-Licensed under [MIT](LICENSE) by [aldiduzha](http://aldiduzha.com).
+Licensed under [MIT](LICENSE) by [aldi](https://aldiduzha.com).
