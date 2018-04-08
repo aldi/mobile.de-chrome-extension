@@ -1,4 +1,4 @@
-<h1>Mobile.de NoSponsored Chrome Extension <strong>1.0</strong></h1>
+<h1>Mobile.de NoSponsored Chrome Extension (DEPRECATED)<strong>1.0</strong></h1>
 
 - hides top and promoted listings
 - hides most of the ads if not all
